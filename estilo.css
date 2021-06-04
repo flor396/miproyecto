@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background: #F3EE80;
+}
+
+h1{
+	color: #CF0A0D;
+    font-family: "berlin sans FB";
+	font-size: 30px;
+    text-align: center;
+	text-transform: uppercase;
+	text-shadow: 3px 3px 2px #000000;
+	letter-spacing: normal;
+	line-height: inherit;
+	vertical-align: text-top;
+	box-shadow: 3px 3px 2px 2px #0000000;
+	opacity: 0.5;
+	
+h1{
+	color:orangered;
+}
+	h3{
+		box-shadow: 3px 3px 2px 2px color #f00fcca;
+	}
+	
+
+
+.juanito
+	color:red;
+}
+h2{
+	color: darkred;
+	font-family:   "berlin sans FB";
+	text-shadow: 3px 3px 2px yellow;
+	line-height: normal;
+	vertical-align: sub;
+}
+
+
+h3{
+	color: orange;
+	font-size: 30px;
+	text-align: right;
+}
+.parrafo{
+
+	color: darkblue;
+}
+#titulo-h6{
+	color: violet;
+}
+p #cursiva{
+	color: red;
+}
+#facebook{
+	color: #FFFFFF;
+}
+p #negrita{
+	color: yellow;
+}
+p{
+	color: black;
+}
+
+#titulo-h5{
+	color: cornflowerblue;
+}
+#tachado{
+	color:blue;
+}
+strike{
+	color: darkblue;
+}
+p i{
+	color: green;
+}
+p strike{
+	color: darkviolet;
+}
+small{
+	color: firebrick;
+}
+.pequeño{
+	color:darkturquoise;
+}
+td{
+	color: #F10F13;
+	font-family:   "berlin sans FB";
+	
+	
+}
+b:hover{
+	color:red;
+}
+.portada{
+	background-position: left;
+}
+#listas{
+	list-style-image: url("carita.png") ;
+	
+	list-style-position: inside;
+	
+}
+#listas1{
+	list-style-position: outside;
+	background-color: #F13639;
+
+}
+#listas2{
+		list-style-position: inside;
+	background-color: #E119E7;
+}
+#listas3{
+		list-style-position: inherit;
+	background-color: #384EFB;
+}

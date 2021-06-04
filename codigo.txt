@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title >WEB PAGINA</title>
+<meta name="keyword" content="teclado, mouse, impresora, memoria externa, usb">
+<meta name="description" content="Center S.A. es una empresa dedicada a brindar servicios de venta de insumos tecnologicos">
+<meta name="author" content="edith">
+<meta name="copyright" content="Copyright desing SI">
+<meta name="robots" content="index">
+
+<link rel="icon" href="libro.ico">
+<link rel="stylesheet" type="text/css" href="estilo.css" >	
+</head>
+<body>
+	<header> 
+	 <nav>
+		<ul>
+			<li><a href="pagina2/index.html"> INICIO</a> </li>
+			<li><a href="institucion.html"> COMPUTADORAS</a> </li>
+			<li><a href="ofertas.html"> PERIFERICOS Y ACCESORIOS </a> </li>
+			<li><a href="ofertas.html"> COMPONENTES</a> </li>
+			<li><a href="ofertas.html"> OFERTAS</a> </li>
+			<li><a href="ofertas.html"> SERVICIO TECNICO</a> </li>
+		</ul> 
+	 </nav>
+	</header>
+	 <section>
+		 <article>
+	<center>
+	<h1>MI PRIMERA PAGINA WEB</h1>
+	</center>
+	<p><b>Nuestro objetivo principal</b> es que, los asociados puedan tener buenos servicios
+		administrar con eficiencia, calidad y rentabilidad los recursos humanos, materiales
+		y financieros.
+		
+	</p>
+	 </article>
+	</section>
+	
+	<section>
+		 <article>
+	<b>diseño de pagina web</b><br>
+	<b>computación e informatica</b>
+			 <strong>diseño de pagina web</strong> 
+	<p>hhhghhhhhhhhhhhhhhhhh</p>
+		<i>alentamos el crecimiento de los jovenes</i><br>
+	<strike>nuestro objetivo principal es</strike><br>
+	<strike>alentemos el crecimeinto de los jovenes</strike><br>
+	<small>buenos servicios, administrar con eficiencia</small><br>
+		 </article>
+	</section>
+	
+	<section>
+		 <article>
+	<a href="https://www.google.com/">google</a><br>
+	<a href="https://www.youtube.com/watch?v=1TO48Cnl66w">youtube</a><br>
+	<a href="https://web.facebook.com/?_rdc=1&_rdr">facebook</a>
+	<br>
+	<br>
+	<a href="pagina2/bienvenidos.html">click en mi 2doPW</a><br>
+	
+	<br>
+	<a href="https://www.youtube.com/watch?v=PvFC7yyfa5E" target="_blank">click</a> para ir a youtube
+	<br>
+	<a href="https://www.google.com/" target="_BLANK"> click aqui</a> para ir a google<br>
+	 </article>
+	</section>
+	
+	<section>
+		 <article>
+	<h4>LISTA DE SUPERMERCADO</h4>
+	<ul>
+		<li><b>Arroz</b></li>
+		<li><i>Azucar</i></li>
+		<li><i>Aceite</i></li>
+		<li>videos</li>
+		<li>tallarin</li>
+		<li>Atun</li>
+	</ul>
+	
+	<h4>LISTA DE UTILES DE ESCRITORIO</h4>
+	<ol>
+		<li><strike>Cuaderno</strike></li>
+		<li><b>Lapicero</b></li>
+		<li><i>Borrador</i></li>
+		<li><i>Tajador</i></li>
+		<li><b>Resaltador</b></li>
+		<li><strike>Papel</strike></li>
+	</ol>
+	 </article>
+	</section>
+	
+	<center>
+	<section>
+		 <article>
+	<div>
+		
+	<h3>TRAER IMAGEN</h3>
+	<p>aqui va mi imagen</p>
+	<img src="https://eldiariony.com/wp-content/uploads/sites/2/2015/08/im_20150318_autos_150319375.jpg?quality=60&strip=all&w=1024" height="200px" width="300px">
+	
+	<img src="https://peru21.pe/resizer/Ll8UUH7_0jKbUafLw7Dt_ApWCJU=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GN2QBPXOYRABDGBSJ2SAQOORKY.jpg" heigth="200px" width="300px">
+	
+	<img src="pooh.jpg" height="200px" width="300px">
+	
+		</div>
+	
+	<div>
+	<img src="poohyflores.png" height="200px" width="300px">
+	<img src="imagenes/Minions.jpg" height="200px" width="300px">
+	<img src="imagenes/casas.jpg" height="200px" width="300px">
+	<img src="celular/departamento.jpg" height="200px" width="300px">
+	</div>
+	 </article>
+	</section>
+		</center>
+	
+<section>
+		 <article>
+<h3>TRAER AUDIO</h3>
+	<p>Aqui va mi audio</p>
+	<audio src="grupoextra.mp3" controls></audio>
+	<audio src="yamile.mp3" controls></audio>
+	<audio src="audio/laquieroamorir.mp3" controls></audio>
+			 
+	<center>
+	<h3>TRAER VIDEO</h3> 
+	<p>Aqui va mi video</p>
+	<video src="laley.mp4" controls height="320px" width="480px"></video>
+	<video src="video/creatividad.mp4" controls height="350px" width="480px"></video>
+	</center>
+		<center>	 
+			 
+	<h3>TRER VIDEO EXTERNO</h3>
+	<p>Aqui va mi video externo</p>
+	<iframe width="540" height="360" src="https://www.youtube.com/embed/1r-XsNYFhiU?list=RD1r-XsNYFhiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<iframe width="540" height="360" src="https://www.youtube.com/embed/nHBct2E8MsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		   </center>
+	 </article>
+	</section>
+	
+	<section>
+		 <article>
+	<h3>LISTA DE ROPAS DE VESTIR</h3>
+	<div>
+		<h4>CASACA</h4>
+		<p>
+			Precio: <b>S/ 99.9</b>
+			Oferta: <i> llevate menos el 10%</i> tenemos todos los colores.
+		</p>
+	</div>
+	
+	<div>
+		<h4>PANTALON</h4>
+		<p>
+			Precio: <b>S/ 79.9</b>
+			Oferta: <i> llevate menos el 15%</i> tenemos todos los colores.
+		</p>
+	</div>
+	<div>
+		<h4>VESTIDO</h4>
+		<p>
+			Precio: <b>S/ 59.9</b>
+			Oferta: <i> llevate menos el 5%</i> tenemos todos los colores.
+		</p>
+	</div>
+			  </article>
+	</section>
+	<section>
+		 <article>
+	<h3>INGRESAR FORMULARIO</h3>
+	<p>form texto</p>
+	<form>
+		
+		nombres <input type="text" required="">
+	    apellidos <input type="text" required="">
+	    DNI      <input type="text" required="">
+		direccion <input type="text" required="">
+		   
+	</form>	
+	<p>formulario contraseña</p>
+	<form>
+		contraseña <input type="password" required="">
+	</form>
+	<p>formulario de numero</p>
+	<form>
+		numero <input type="number" required="">
+	</form>
+	<p> formulario de correo electronico</p>
+	<form>
+		correo <input type="email" required="">
+	</form>
+	<p>formulario de telefono</p>
+	<form>
+	<input type="tel" required="">
+	</form>
+	
+	<p>formulario color</p>
+	<form>
+	color <input type="color" required="">
+		
+		</form>
+	<p>formulario rango</p>
+			<form>
+				rango <input type="range" min="1" max="100">
+	</form>
+	<p>formulario de fecha</p>
+	<form>
+		<input type="date" required="">
+	</form>
+	<p>formulario hora</p>
+	<form>
+		hora <input type="time" required=""> 
+	</form>
+	<p>formulario boton</p>
+	<form>
+		boton <input type="button" value="compartir" required="">
+	</form>
+	<p>formulario enviar</p>
+	<form>
+		<input type="submit" value="enviar">
+	</form>
+	<p>formulario modificable</p>
+	<form>
+		<textarea></textarea>
+		<textarea readonly=""></textarea>
+	<textarea readonly=""> BIENVENIDOS A MI SITIO WEB, ESPERO QUE TE GUSTE</textarea>
+		
+		<p>ejercico de formulario</p>
+		<form>
+		nombres <input type="text" required="" placeholder="Ingresa tu nombre" > <input type="submit" value="enviar"><br><br>
+	    apellidos <input type="text" required="" placeholder="Ingresa tu apellido"> <input type="submit" value="enviar"><br><br>
+	    DNI      <input type="nunber" required="" placeholder="Ingresa tu DNI" maxlength="8" /> <input type="submit" value="enviar"><br><br>
+		correo electronico <input type="email" required="" placeholder="Ingresa tu correo" > <input type="submit" value="enviar"><br><br>
+		telefono      <input type="tel" required="" placeholder="Ingresa tu telefono" maxlength="9" /> <input type="submit" value="enviar"><br><br>
+		</form>
+	</form>
+|	<p>ejercico de formulario</p>
+		<form>
+		nombres <input type="text" required="" placeholder="Ingresa tu nombre" > <br><br>
+	    apellidos <input type="text" required="" placeholder="Ingresa tu apellido"> <br><br>
+	    DNI      <input type="nunber" required="" placeholder="Ingresa tu DNI" maxlength="8" /> <br><br>
+		correo electronico <input type="email" required="" placeholder="Ingresa tu correo" > <br><br>
+		telefono      <input type="tel" required="" placeholder="Ingresa tu telefono" maxlength="9" /><br><br> <input type="submit" value="enviar"><br><br>
+		</form>
+			   </article>
+	</section>
+		<section>
+		 <article>
+			 <center>
+	<table border="1px">
+		<tr>
+			<td> <center><b>NOMBRES </b></center></td>
+			<td> <center><b>APELLIDOS </b></center></td>
+			<td> <center><b>DNI </b></center></td>
+			<td> <center><b>CORREO</b></center></td>
+			
+		</tr>
+		<tr>
+			<td><center> Luis Fernando</center></td>
+			<td> <center>Aldabasal Loayza</center></td>
+			<td> <center> 12345678 </center></td>
+			<td> <center>luisalds@gmail.com</center></td>
+			
+		</tr>
+		<tr>
+			<td> <center>Maricielo Luz</center></td>
+			<td><center> Zalas Monteagudo</center></td>
+			<td>  <center>46568952</center></td>
+			<td> <center>maricielozalas_125@gmail.com</center></td>
+		</tr>
+		<tr>
+			<td> <center>Marcos</center> </td>
+			<td><center> Zuñiga de la cruzsssssssss</center></td>
+			<td> <center> 45457879</center></td>
+			<td> <center>lmaquiuszun_4656@hotmail.com</center></td>
+		</tr>
+		<tr>
+			<td><center> Luz </center></td>
+			<td><center> Canales </center></td>
+			<td>  <center>42145876</center></td>
+			<td> <center>luz2021@gmail.com</center></td>
+		</tr>
+	</table>
+				 
+	 	   </center>
+	      </article>
+	</section>
+
+<p>hola como estas </p>
+	<p> hola como <span>estas</span></p>
+
+<center>
+  <aside>
+		<h3>OFERTAS DE LOCURA</h3>
+		<p> Pase usted, le tenemos muy buenas ofertas de locura</p>
+		<img src="aceite.jpg" height="200px" width="300px">
+		<p> En esta seccion te ofrecemos productos tecnologicos</p>
+		<img src="monitor.jpg" height="200px" width="300px">
+		<img src="compu12.jpg" height="200px" width="300px">
+	</aside>
+</center>
+	<div>
+	<center>
+	<fooder>
+		<p> Copyrigth - Todos los derechos reservados</p>
+		<span><i>Siguenos en:</i></span> 
+		<a href="https://www.facebook.com/floredith.huamanhuaman/"> FACEBOOK </a>
+	    <span>||</span>
+		<a href="https://www.youtube.com/watch?v=X4nlTGq__5g"> YOUTUBE </a>
+		<span>||</span>
+		<a href="https://www.youtube.com/watch?v=X4nlTGq__5g"> INSTAGRAM </a>
+		<span>||</span>
+		<a href="https://www.youtube.com/watch?v=X4nlTGq__5g"> TWITTER </a>
+		<p><i>Informes:</i> 956789125 - 983654123</p>
+		<p><i>Horario de atencion:</i> Lunes - Viernes de 8am a 5pm</p>
+		<p><i>hubicanos  en:</i>Av. Las Flores 356 - Andahuaylas - Talavera</p>
+	</fooder>
+	</center>
+		</div>
+</body>
+</html>
